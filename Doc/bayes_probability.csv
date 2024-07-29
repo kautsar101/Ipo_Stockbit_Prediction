@@ -1,0 +1,18 @@
+Condition,Target,Probability,Occurance
+Underwriter = GR ,1 candle high >= 34.0,0.6,5
+Underwriter = IF ,1 candle high >= 34.0,0.75,4
+Underwriter = YJ ,1 candle high >= 34.0,0.7142857142857143,7
+Underwriter = HD ,1 candle high >= 34.0,0.8,10
+Underwriter = SH ,1 candle high >= 34.0,0.8,5
+Underwriter = MI ,1 candle high >= 34.0,0.75,4
+Underwriter = LG ,1 candle high >= 34.0,0.8,5
+Underwriter = SH ,2 candle high >= 78.0,0.8,5
+Underwriter = SH ,3 candle high >= 135.0,0.8,5
+Underwriter = SH ,4 candle high >= 188.0,0.6,5
+Papan Pencatatan = Pemantauan Khusus,1 candle high >= 34.0,0.8125,16
+Papan Pencatatan = Pemantauan Khusus,2 candle high >= 78.0,0.625,16
+Sector = Perindustrian,1 candle high >= 34.0,0.631578947368421,19
+Sector = Transportasi & Logistik,1 candle high >= 34.0,0.6,10
+Subsector = Barang Perindustrian,1 candle high >= 34.0,0.8333333333333334,6
+Subsector = Logistik & Pengantaran,1 candle high >= 34.0,0.6,10
+Subsector = Perangkat Keras & Peralatan Teknologi,1 candle high >= 34.0,0.6,5
